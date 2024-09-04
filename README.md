@@ -1,0 +1,1 @@
+Moj projekt zawiera strone ktorej celem bedzie przedstawienie kilka przepisow gotowania oraz umiejetnosci w HTML
